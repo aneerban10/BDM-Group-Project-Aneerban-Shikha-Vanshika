@@ -1,0 +1,1001 @@
+RestaurantID,Name,Location,CuisineType,Rating
+3ceced91,Massey-Rodriguez,San Diego,Japanese,3.5
+4397b060,Fuller Inc,San Antonio,Mediterranean,3.4
+53b56a12,Vega-Moses,Los Angeles,Japanese,2.8
+b40880bb,Morgan PLC,New York,Mexican,3.5
+81e49294,Phillips Inc,New York,Indian,3.8
+992c4d3e,Lara PLC,New York,Japanese,2.9
+1dbedd98,Munoz PLC,Chicago,Japanese,3.1
+106c7eda,Rose Inc,Chicago,Mediterranean,4.2
+71d62077,Meyer and Sons,San Diego,Italian,4.2
+7587d388,Jackson-Morris,Phoenix,Italian,4.4
+3b7dfc2a,Hernandez Ltd,Phoenix,Mexican,2.7
+c4dafb44,David-Cruz,Houston,Indian,4.6
+67f56aef,Peck Inc,Houston,Mexican,3.9
+0ba0adf1,Bennett-Barnes,Houston,Japanese,3.2
+89290394,Benitez and Sons,Chicago,Mexican,4.5
+b51c0a12,Houston Group,Los Angeles,Indian,4.7
+4d758a57,Bradley LLC,Phoenix,Mexican,3.6
+3f249af6,Phillips-Terry,New York,American,3.3
+a5299670,Oconnor-Morgan,Los Angeles,Mexican,4.8
+903ac7c5,Jackson-Cantrell,Los Angeles,Indian,4.1
+264c7dc8,Alexander Group,San Antonio,Indian,2.6
+c52b46e3,Orr-Gordon,New York,American,3.9
+e614c73e,"Robertson, Young and Lane",Los Angeles,Indian,3.0
+f967757c,"Kline, Willis and Brock",Phoenix,Japanese,3.1
+fa125aa3,Thomas-Mccoy,Phoenix,Mediterranean,3.7
+bde6cad6,Rodriguez LLC,San Diego,American,2.9
+a6346be5,Smith-Gonzalez,Houston,Mexican,3.4
+2bec382d,Mejia-Davila,Chicago,Indian,3.2
+f12ee52a,"Stewart, Jones and Zhang",Chicago,Italian,2.7
+f06eef44,Hobbs PLC,New York,Chinese,3.1
+1b315b5f,"Monroe, Bell and Smith",Los Angeles,Indian,2.8
+32b2f74d,"Norman, Soto and Butler",Phoenix,Chinese,2.9
+3c0f1be0,Hopkins and Sons,San Diego,Mexican,3.2
+67164f42,Reynolds PLC,Chicago,Japanese,4.8
+6439299b,Aguilar-Dunn,Chicago,Mexican,2.9
+f900e7e5,"Wilson, Smith and Valencia",Los Angeles,Chinese,3.1
+c96caf90,Newton-Clark,Chicago,Italian,4.8
+0431142a,Miller Ltd,Los Angeles,Italian,3.3
+1830f881,Olsen-Rivera,Los Angeles,Mexican,3.0
+ec8dd8a5,"Smith, Nelson and Brown",Phoenix,Mediterranean,4.1
+252a5565,"Gaines, Villanueva and Beard",San Antonio,American,3.3
+4dc3ea0b,Meyer-Patterson,San Diego,American,4.3
+9ab16426,"Turner, Parker and Jones",Chicago,Indian,3.1
+39e53a9f,Ruiz-Gardner,Phoenix,Mexican,3.5
+7f396d10,Landry Group,Los Angeles,American,2.6
+9b1ed4a6,Roberts-Russell,Houston,Italian,4.5
+e3d013f6,"Morales, Taylor and Snyder",San Diego,Chinese,3.0
+e87518dc,Thompson LLC,Chicago,Japanese,4.0
+30c6712c,Freeman-Miller,Chicago,American,3.1
+44fbfcd4,Fernandez Ltd,Chicago,Italian,3.6
+af6ddf42,Deleon Inc,San Diego,Indian,4.5
+ed7a1164,"Harris, Shah and Paul",San Antonio,Indian,3.3
+5dbbc386,Jacobson Ltd,Phoenix,Japanese,3.6
+935d89c0,"Mitchell, Jackson and Fields",New York,American,3.3
+aa51f6ff,"Moon, Newman and Snyder",Phoenix,Japanese,4.5
+2b5199f6,Summers-Lee,San Diego,Mexican,3.5
+daa9d94e,Estrada LLC,New York,Chinese,4.6
+bc24920e,"Martin, Stark and Price",Houston,American,4.0
+6c1c15f9,Anderson Group,Chicago,Chinese,3.0
+00a32a93,"Jimenez, Jordan and Chen",Houston,American,2.5
+feba8ff3,"Cook, Carney and Jackson",Phoenix,Italian,3.6
+5f7eda1d,Miller-Coleman,New York,Japanese,3.4
+dc7a61f4,Hunt and Sons,Houston,American,2.6
+56bfc8e5,Brooks-White,Houston,Mexican,4.3
+6893aecb,Mcintyre LLC,Phoenix,Mediterranean,3.9
+5910f9dd,"Jackson, Johnson and Long",New York,American,4.4
+65619a7c,Flores PLC,Chicago,Japanese,4.3
+9f1a68a1,Nunez LLC,San Diego,Indian,3.7
+a3cd67e9,Shea PLC,New York,American,4.6
+f2ab6f3a,"Lewis, Cannon and Hall",New York,Japanese,2.5
+5766729d,"Cummings, Brennan and Martinez",Los Angeles,Italian,4.9
+12f8d44a,Johnson and Sons,San Antonio,Chinese,4.9
+9a3fdab7,"Johnson, Grant and Green",San Diego,Italian,3.6
+bb3dd51e,"Velez, Gonzalez and Escobar",San Antonio,Japanese,3.6
+67225eb1,Crawford LLC,New York,Indian,2.6
+0bd64192,"Cole, Welch and Armstrong",Chicago,Mexican,3.2
+89b3987f,Smith Group,San Diego,Italian,4.9
+67d44d85,Sanders Group,Chicago,Chinese,4.8
+c6a79828,Hall-Gonzalez,Los Angeles,Japanese,4.1
+3f966cbe,"Mann, Clark and Knight",Los Angeles,Japanese,3.6
+41132fa5,Tucker-Williams,San Diego,Italian,4.6
+5dd75e71,Miles-Moyer,San Antonio,American,2.8
+87edbb77,Miller and Sons,Phoenix,Indian,2.9
+bc87d447,"Walker, Pittman and Robertson",Phoenix,Indian,3.5
+e4ea0f7f,"Cooper, Curtis and Miller",Houston,American,4.2
+f0b1c7cc,"Smith, Ware and Klein",Los Angeles,American,4.1
+ba2fe940,Collins Inc,Chicago,Mexican,4.6
+2c91802e,Cannon LLC,Phoenix,Indian,4.9
+bdbef434,"Melton, Fernandez and Humphrey",San Diego,Mexican,4.3
+6675508e,"Schultz, White and Hill",New York,Japanese,3.8
+c406a0d5,Mitchell Ltd,San Antonio,Chinese,3.0
+9401b836,Collins-Thornton,San Antonio,Mediterranean,5.0
+00293d8d,Yates PLC,San Antonio,Mexican,3.3
+ddf43272,"Anderson, Sellers and Ryan",Houston,Italian,2.9
+708487e9,"Tucker, Jacobs and Pratt",Chicago,American,2.8
+aa6c6035,"Henry, Washington and Lopez",San Diego,Mexican,3.5
+668ff02d,Schaefer and Sons,Houston,Chinese,3.4
+0b9ed4f0,Lloyd Group,Los Angeles,Indian,4.5
+7c96f006,Sanchez Inc,New York,Japanese,4.9
+ebca4b44,Brown-Williams,San Diego,Mexican,4.9
+9ea93743,Moses PLC,San Diego,American,3.1
+1fc7b060,Wyatt-Owen,New York,Mediterranean,2.5
+8fbb95f8,Farmer Inc,Phoenix,Mexican,4.4
+be75eb64,Yu Ltd,San Antonio,Mexican,3.4
+1a9fb92e,"Morgan, Smith and Singleton",New York,Mexican,4.8
+63ecccb4,"Padilla, Rojas and Fisher",Chicago,American,2.6
+b9f7f063,Barrett Ltd,Los Angeles,Italian,2.7
+fb107feb,Montes-Smith,Houston,Mediterranean,4.1
+92fc2a6f,"Patterson, Taylor and Soto",Phoenix,Mexican,3.7
+4b8cf4f8,Baldwin-Smith,San Diego,Indian,3.3
+62cf6506,James-Beck,Houston,Italian,3.5
+d78451c7,Johnson LLC,Phoenix,Indian,4.3
+65eab846,"Wyatt, Mckay and Armstrong",Los Angeles,Mexican,4.4
+34dc43e6,Atkinson Ltd,Houston,Japanese,4.1
+c44e4ecb,Haynes Inc,Phoenix,Indian,3.5
+825e362f,Cowan-Acosta,San Diego,American,3.4
+721ee8a2,"Becker, Taylor and Gray",Houston,Mexican,4.9
+c7ea08f1,"Green, Lopez and Ford",San Antonio,Mediterranean,4.4
+ead6e485,"Haas, Lopez and Taylor",Phoenix,Italian,4.1
+fffe14f1,Vincent-Burch,Phoenix,Mexican,3.8
+63cfd419,"Kennedy, Nguyen and Taylor",New York,Italian,4.8
+6c4ee216,Barker and Sons,Chicago,Chinese,4.4
+9d5ae44b,Daniel Group,Chicago,Mediterranean,4.8
+e3f28d8b,"Moon, Phillips and Wilson",San Antonio,Mexican,3.3
+75bf3473,Jones Ltd,Chicago,Italian,3.9
+a0fe06b3,Gonzales-Benson,New York,Mexican,3.7
+7f7dd7e7,"Hawkins, Lopez and Mcdonald",New York,Italian,4.4
+cd0db1ba,"Contreras, Mendoza and Wells",New York,Japanese,4.8
+f0335bd2,Clark-Robinson,Chicago,Japanese,4.8
+aec518ec,Roberts PLC,San Diego,Italian,2.7
+3f3d3cf8,Brown-Mitchell,San Antonio,Mediterranean,3.3
+59fa395e,"Russell, Chapman and Steele",San Diego,Japanese,4.5
+7db55e95,Montes-Rollins,Chicago,American,3.3
+196cf182,"Moore, Brandt and Miller",Phoenix,American,4.7
+17649e1b,Sanchez and Sons,San Antonio,Japanese,3.1
+498f728e,Ray-Reese,San Diego,Mexican,3.8
+7f88fae7,Parsons Group,Phoenix,American,4.4
+d8f52997,Davis-Barrett,San Antonio,Chinese,4.5
+fe2895eb,"White, Fry and Anderson",Chicago,Chinese,3.7
+ef7f9e7b,"Hernandez, Burns and Anderson",New York,Indian,3.7
+5636d8d0,Meza PLC,San Antonio,Indian,4.2
+6d5694b3,Murphy LLC,Los Angeles,American,3.7
+0c387cf5,Collins Inc,Houston,American,2.8
+50970e87,"Taylor, Wu and Burgess",Chicago,Chinese,4.2
+b994d07a,Welch-Phillips,San Antonio,American,4.1
+ea69cbf7,Valdez-Morales,New York,Italian,2.6
+402b1d6c,Johnson-Lee,Chicago,Italian,5.0
+6d1a2f70,"Williams, Martinez and Jensen",Los Angeles,Italian,3.4
+5f51c158,Costa LLC,Phoenix,American,5.0
+46ac41ee,"Cochran, Olson and Hill",Phoenix,Indian,3.3
+79f84d5d,Robinson-Hunter,Los Angeles,Mediterranean,4.6
+7d469497,Johnson LLC,San Antonio,Indian,2.9
+01e105a1,Adams Inc,San Diego,Mexican,3.4
+c27b9a37,Knight-Oliver,Phoenix,American,4.8
+ea3bc18f,Cook-May,Chicago,Italian,4.3
+c70c3840,Giles Group,Phoenix,Mediterranean,3.9
+8fa32e3a,Madden PLC,Los Angeles,Italian,3.5
+755172e4,Hill LLC,Chicago,Mediterranean,3.9
+3f4dfa8f,"Robles, Richardson and Wheeler",San Antonio,Italian,4.6
+b5e61fe8,Smith Group,San Antonio,Chinese,3.0
+4e311d22,Mccall and Sons,Houston,Indian,3.4
+de45c6b6,Randolph and Sons,Houston,Mediterranean,3.2
+fce3b70e,Bell-Hernandez,San Antonio,Mediterranean,4.9
+1f5168c3,Richardson-Powers,Phoenix,Mexican,4.1
+ca8f1122,"Morris, Brown and Brown",San Antonio,Mediterranean,4.9
+77d51318,"Pierce, Smith and Hudson",Phoenix,Japanese,3.8
+5487bf07,"Kennedy, Miller and Prince",Chicago,Mediterranean,3.0
+a768eb1d,Le-Adams,Los Angeles,Chinese,3.9
+27927c18,Bell Inc,Chicago,Chinese,4.7
+53b373c6,Wilson Ltd,San Antonio,Italian,4.9
+41626f9b,Martinez Inc,Houston,Mexican,3.9
+678d641e,"Fernandez, Vargas and Zamora",San Antonio,Mediterranean,3.9
+2fca5656,Nolan-Crawford,San Antonio,Indian,2.9
+958e5546,"Davis, Green and Yang",Houston,Chinese,4.7
+e817ae12,Murphy and Sons,Los Angeles,Indian,3.0
+a69d1c66,"Joseph, Hicks and Jacobson",Houston,Italian,3.7
+1f0c3981,Ellis-Morrison,Chicago,Mexican,2.5
+87d455bf,Evans-Smith,Houston,Chinese,3.8
+0bad6803,"Price, Brown and Taylor",New York,Mexican,2.9
+e83c5e56,Michael-Sellers,San Diego,Italian,4.3
+ca6ff845,Jones-Cooper,San Antonio,Mediterranean,4.7
+72e284ee,James-Miller,Phoenix,Mexican,3.0
+103991b7,Gallagher-Garcia,New York,Mediterranean,3.6
+1289161f,Nguyen PLC,San Diego,Italian,2.7
+ee63a8cc,Shannon Inc,Phoenix,Indian,3.6
+509786c9,Lewis Group,Chicago,American,4.2
+51c27033,Hoffman-Moore,Phoenix,Mediterranean,5.0
+154654ea,Henry and Sons,San Diego,Indian,3.9
+9716a962,Tucker-Simmons,Chicago,Indian,3.9
+25de3b0e,Jones Group,San Diego,Japanese,4.9
+94262b8e,Fletcher Group,Phoenix,Japanese,3.3
+aaea4206,Steele-Mendez,Chicago,Italian,3.9
+e2ca4bfb,"Hawkins, Sweeney and Bell",Phoenix,Chinese,3.7
+505e51ee,Horn-Freeman,Houston,Italian,4.8
+c05c318c,Lopez-Allen,Chicago,Italian,4.9
+7da6db89,"Watts, Bell and Mullen",New York,Chinese,2.7
+eaae7f53,Rivera-Banks,Chicago,Mexican,4.4
+7d18396d,Walsh LLC,Phoenix,Mexican,2.7
+01057feb,Herrera and Sons,San Antonio,Mexican,4.2
+6674993c,"Branch, Burgess and Schmidt",Chicago,Chinese,4.1
+73227387,Hernandez Inc,Phoenix,Mexican,3.6
+f737a877,Thompson-Chambers,New York,Chinese,4.4
+465255ca,Miller LLC,Chicago,Mexican,4.4
+a0ac334e,James Ltd,San Diego,Mexican,4.8
+6027b2b7,Wiggins-Pearson,Phoenix,Japanese,3.5
+9e2a18a4,"Wright, Baxter and Kim",Chicago,American,3.7
+041470a7,Green-Lewis,New York,Japanese,4.4
+c04f321f,Benson-Hall,Houston,Japanese,3.6
+2fbe492c,Turner-Osborne,San Diego,Mediterranean,2.7
+5b59e19a,"Nash, Lowe and Jarvis",San Diego,American,3.7
+685f1906,Nichols-Martin,Houston,Mediterranean,4.3
+117c3e0a,"Murphy, Soto and Thompson",Los Angeles,Indian,2.5
+bd93b604,"Sanders, Underwood and Bradley",Los Angeles,Japanese,3.3
+90e9e0aa,"Reed, Reeves and Daniel",San Antonio,American,4.6
+07bc56a2,Long-Valenzuela,Chicago,American,4.6
+1e2ed919,"Davis, Hunter and Simon",New York,Italian,2.8
+d8785826,"Scott, Baldwin and Barry",Phoenix,Japanese,3.9
+789abdc8,"Blake, Brown and Baxter",San Antonio,Italian,4.1
+53c0d7d7,"Kelley, Brown and Webster",Houston,Indian,4.0
+2b3e9ea0,"Willis, Hamilton and Jones",San Diego,Mexican,4.5
+d74cf945,Moss and Sons,San Antonio,American,4.0
+a4eed5e1,Davis-Davenport,New York,Mediterranean,4.6
+e01a29d1,Gonzalez Inc,San Diego,Japanese,3.5
+71df0ca4,Snyder-Smith,Phoenix,Indian,4.7
+e6814dca,"Padilla, Hill and Boyd",San Antonio,Indian,4.2
+9471b3c7,Carpenter-Summers,Los Angeles,Mexican,4.3
+8f3e8ac5,Lewis-Walker,San Antonio,American,3.5
+76a0f54d,Mueller Ltd,San Antonio,Chinese,4.0
+b86645fe,"Cunningham, Johnson and Newton",Houston,Italian,3.3
+e9ffda78,Clark-Mitchell,New York,Chinese,2.6
+4f13626e,Freeman Ltd,Chicago,Chinese,4.7
+d76bb9f4,Fernandez-King,Houston,Japanese,4.7
+c540d2cc,Bauer Ltd,San Antonio,Japanese,2.9
+1801d030,Harmon Inc,San Antonio,Japanese,3.1
+d10953f9,Wood-Bryant,Phoenix,Italian,2.7
+bfddc941,Jackson-Scott,Los Angeles,Italian,4.4
+5b8fd459,Rodriguez-Garcia,San Diego,Chinese,4.8
+62d3f1c6,Davenport-Rogers,Los Angeles,Italian,4.9
+ec791498,Valentine PLC,San Antonio,Chinese,2.8
+0cc542ad,Phillips-Hamilton,New York,American,3.4
+71c65490,Wiley-Beltran,San Diego,American,2.8
+09451e49,Campos-Archer,New York,American,4.2
+79ec2229,"Castillo, Simmons and King",New York,Japanese,3.9
+30e0e015,Matthews PLC,New York,Indian,3.6
+dcf7ac17,Thomas-Cooper,New York,Italian,3.4
+4d5f6d0a,Carroll PLC,New York,Indian,4.3
+5f5ed9b7,Alvarez Ltd,Los Angeles,Indian,2.6
+51cfd46d,Martinez-Hall,Phoenix,Indian,4.8
+12df242f,"Koch, Burnett and Skinner",Chicago,Indian,2.8
+1e749fc3,"Valenzuela, Price and Johnson",Chicago,Japanese,4.2
+dbc8e302,Gonzalez-Gomez,New York,Mexican,2.6
+f7e4624c,Moreno-Sharp,New York,Japanese,3.7
+1a5f5a93,Curry and Sons,San Diego,Chinese,4.7
+091f7d47,"Welch, Pham and Davis",Los Angeles,American,4.1
+12f035c4,Henderson Group,Chicago,Chinese,2.7
+dd4429c6,"Smith, Wood and Adams",New York,Japanese,2.9
+5cad725d,Perry-Benson,Houston,Chinese,3.3
+0c90b7ec,Ramirez LLC,San Diego,American,3.5
+c40a454f,Marquez-Monroe,San Diego,Indian,2.7
+296ecdc6,Morrison-Morales,San Antonio,Indian,2.9
+bf3e12e7,Bridges Inc,New York,Mediterranean,4.4
+8b889daa,Burns Group,New York,Italian,3.0
+0658cca5,"Valenzuela, Miller and Riley",Houston,Mediterranean,2.7
+983e0b4f,Webb Inc,New York,Indian,4.4
+d832b182,Hayden Inc,Chicago,Mediterranean,4.4
+eb8326d0,Wilson-Braun,Phoenix,Mexican,2.7
+ea946363,Warner PLC,Los Angeles,Mediterranean,3.2
+7bb9cb38,Russell-Maynard,Los Angeles,Japanese,4.1
+1fd623e6,"Lopez, Arroyo and Mcdonald",San Diego,Mediterranean,3.6
+d940d17b,Ellis-Hubbard,Chicago,Japanese,2.9
+d274a701,"Sullivan, Flores and Bryant",New York,Mexican,3.3
+4d9c2943,Bird-Ayers,New York,American,3.3
+b1b42c06,"Clark, Wilson and Wood",Los Angeles,American,4.2
+4a94850d,Burnett-Wood,Chicago,Mediterranean,4.4
+e43c4935,Gay-Harris,Phoenix,Chinese,3.6
+c5559863,"Benitez, Jarvis and Chen",Los Angeles,American,4.0
+4a0d8d5c,Stevens-Campbell,San Diego,American,3.9
+d5b59cf4,Gordon and Sons,Phoenix,Indian,3.2
+9bd6f30f,Martinez-Hayes,Los Angeles,Japanese,3.7
+34854b8e,Hale-Clark,San Antonio,Mediterranean,2.8
+d085ed86,Leon Group,Houston,Mediterranean,4.3
+93a56947,Glover-Adams,San Diego,Italian,4.0
+33697bad,Hall-Brooks,San Antonio,Mexican,5.0
+2801f2a3,Jackson-Monroe,San Diego,Mediterranean,3.4
+156461d7,"Garcia, Jones and Zuniga",San Diego,Mexican,3.3
+9e854b8e,Johnson-Dennis,Houston,Italian,3.6
+3abac7e9,Martinez-Galvan,San Antonio,Indian,4.7
+3cbed378,"Smith, Garcia and Burton",San Diego,American,2.9
+7374dd67,"Nelson, Johnston and Estrada",San Diego,Indian,5.0
+551ed1c9,Richardson-Tate,San Diego,Japanese,2.9
+dd78e2e9,"Phillips, Weber and Smith",Los Angeles,Mexican,4.2
+dfc3c7d9,"Foster, Campbell and Young",Chicago,Italian,3.4
+77cb1f48,"Boyer, Stephens and Morales",Los Angeles,Mexican,2.7
+71e00fda,Lynch Ltd,San Antonio,Italian,4.5
+0aa012c7,Huff-Moss,Los Angeles,American,3.7
+ade65bc3,Roberts-Hunter,Chicago,Chinese,4.3
+a8d61c25,Fisher-Caldwell,Phoenix,Indian,4.0
+006cb334,Nixon-Garcia,New York,Mexican,4.4
+a00f6194,Saunders-Hutchinson,Los Angeles,Japanese,3.4
+ed20c881,Cunningham and Sons,Phoenix,Mexican,4.3
+e2858dd6,Williams-Keith,San Antonio,Italian,3.5
+1eb502e9,Johnson Ltd,Los Angeles,Chinese,5.0
+f63aee47,"Miller, Skinner and Jimenez",Los Angeles,Mexican,4.8
+63e9dc66,Flynn-Saunders,Phoenix,Indian,4.4
+d69ee513,"Odom, Mcpherson and Vaughan",Houston,Japanese,4.3
+a255ce95,Ramirez-Gonzalez,Phoenix,Mexican,2.9
+2d67cc2a,"Schmidt, Cannon and Martin",Phoenix,Chinese,2.8
+0a219eab,Crosby Inc,New York,Indian,2.5
+3c51a620,"Johnson, Franklin and Fuentes",Houston,Chinese,4.2
+f90a6bcd,"Jenkins, Alexander and Shaffer",Phoenix,Mediterranean,2.6
+e9644991,Garcia LLC,Houston,American,4.9
+cd230b05,Drake-Jenkins,San Diego,Mediterranean,3.5
+89daea73,"Rubio, Everett and Downs",San Antonio,Mediterranean,4.6
+65b7954f,"Bray, Mitchell and Smith",Chicago,American,3.4
+9614139e,"Wang, Fitzgerald and Carter",San Diego,Mexican,3.5
+9a0d25d8,"Newton, Terry and Marquez",Houston,Mexican,3.0
+6ec8168e,Mejia-Brown,San Diego,American,3.6
+e0f4d0ff,"Golden, Henderson and Nunez",Phoenix,Japanese,3.6
+56614515,Weber-Moore,New York,Mediterranean,4.8
+dfe229bd,Flores-Morris,Phoenix,Mediterranean,4.6
+a0afb95b,"Pierce, Ford and Roberts",San Diego,American,3.6
+2d2601ec,Taylor-Newman,Phoenix,Chinese,2.6
+ccf0b17b,"Green, Herrera and Williams",New York,Japanese,3.3
+3d0d22f5,"Hernandez, Taylor and Clay",Chicago,Indian,4.8
+93221482,Moreno Inc,Chicago,Italian,2.6
+46e37afa,Davidson-Jennings,Houston,Indian,3.0
+671deeea,Massey-Gomez,Los Angeles,Italian,3.9
+8b0bdc67,Miranda-Williams,Houston,Chinese,4.6
+94676327,Reed-Colon,Los Angeles,Mexican,4.1
+0a3aad09,Pierce PLC,Phoenix,American,4.9
+f69f812e,Jenkins-Coleman,Phoenix,Italian,3.9
+e282a8f6,Griffin PLC,Phoenix,Mediterranean,3.8
+231ef094,Mcbride-Smith,Phoenix,Italian,3.4
+3e593dfc,Roberts Inc,Chicago,American,3.2
+e135dc18,Oneill and Sons,Chicago,American,2.9
+4e04b616,Sherman PLC,Phoenix,Italian,4.3
+0db74cd9,"Jones, Randolph and Padilla",Phoenix,Italian,4.9
+c879536f,"Buckley, Jones and King",New York,Chinese,2.7
+9158928d,Douglas LLC,Phoenix,Chinese,3.7
+a9caa770,"Knight, Hester and Wilcox",San Antonio,Chinese,3.7
+01d61ac3,Wilkinson-Davidson,San Antonio,Chinese,3.7
+9adcc61a,Thomas Group,Chicago,Mexican,3.7
+70a532f6,"Moore, Gutierrez and Lopez",New York,Japanese,4.5
+e89805b8,"Elliott, Moore and Valdez",New York,Japanese,3.9
+f31fb3b5,"Fields, Bell and Green",New York,Mexican,4.4
+86d852bd,"Walker, Schultz and Rivera",Phoenix,Italian,3.5
+0c0d89b2,"Johnson, Mack and Collins",Phoenix,Mexican,2.6
+ae837b95,Clark-Browning,San Diego,Chinese,4.7
+4c9ac1d2,"Rocha, Ortega and Bryant",San Antonio,Mexican,2.6
+e477b8ba,Perkins-Fischer,Houston,Italian,5.0
+51ab59b8,"Foster, Perez and Rivera",Los Angeles,Indian,4.3
+5a60f5f5,"Kelley, Carey and Davis",New York,Mediterranean,4.7
+44c76da6,"Rodriguez, Mitchell and Newman",Phoenix,Italian,4.4
+16dcd3f7,Diaz Inc,San Antonio,Mediterranean,4.2
+b6dc1e6b,Jones and Sons,New York,Japanese,4.4
+1e770b01,Fuentes-Hoffman,Phoenix,Japanese,4.2
+da773dc9,Weaver and Sons,Houston,Mexican,4.2
+8838ecf2,Nelson Ltd,New York,Italian,3.3
+6ed948d9,Wang-Smith,Los Angeles,Mexican,3.6
+854fe848,Adkins-Collins,San Diego,Italian,3.2
+11286849,Larsen-Brown,Los Angeles,American,2.9
+cd57a6f2,Barton Ltd,Chicago,Indian,4.0
+5e501086,Hernandez-Ortiz,San Antonio,Mediterranean,4.0
+79178163,Douglas-Valencia,Chicago,Mediterranean,3.8
+092db504,Hughes Group,Los Angeles,Italian,4.1
+8ff3a047,Bray and Sons,Los Angeles,Italian,3.8
+16de2ac9,"Martin, Johnson and Martin",Los Angeles,Japanese,3.7
+eaad2daa,"Mitchell, Mcknight and Cobb",Chicago,Japanese,3.1
+67258f23,Johnson-Lutz,San Diego,Japanese,4.0
+fe1f10bc,Anthony LLC,Phoenix,American,4.1
+2b56ad41,Cook-Hughes,Chicago,Chinese,3.2
+f194f261,Medina LLC,San Antonio,Mediterranean,3.0
+1f75ef70,Miller Group,San Diego,Mediterranean,3.8
+dc41fbda,Shah and Sons,Phoenix,Japanese,4.1
+3744f6c6,Garcia-Avila,San Antonio,Indian,2.7
+fc82d064,Anderson Inc,Chicago,Chinese,3.9
+26c20141,"Coleman, Mullen and Jacobs",San Diego,Mexican,4.9
+0809814b,Hickman Inc,San Diego,Mediterranean,4.7
+687e2847,Griffin Inc,Chicago,Indian,3.7
+049170d3,Garcia LLC,Houston,Mediterranean,2.5
+eeaf3ddf,Ramsey-Clarke,San Diego,Indian,5.0
+009a59bc,Rice-Johnson,Houston,Indian,3.9
+f7232b1e,Lopez and Sons,San Diego,Mediterranean,3.7
+96396b10,Coleman-Marshall,Chicago,Mexican,3.3
+43495a53,Cooper-Wilson,Chicago,Italian,3.7
+81ea0acb,Porter Inc,San Diego,Indian,3.5
+49c9ce2b,"Baker, Johnson and Hall",San Diego,Italian,4.9
+88f73954,Ryan-Anderson,Phoenix,American,5.0
+be258451,Bryant-Wright,San Antonio,American,3.9
+c2bfb7ab,"Baker, Strong and Diaz",Houston,Chinese,5.0
+0d38a713,Rogers PLC,Los Angeles,Indian,3.3
+d2207c5f,Cox-Mcknight,San Diego,Japanese,4.6
+1278fe93,Jackson-Fitzgerald,Los Angeles,Chinese,4.9
+1b6f478f,"Pham, Garza and Kirby",New York,Mexican,4.8
+92edf0ab,Marshall Ltd,New York,Japanese,4.7
+8e65fab3,"Andrews, Johnson and Delgado",New York,American,4.1
+17aad046,"Torres, Finley and Blankenship",Houston,Chinese,3.0
+1fa12c05,Anderson-Perry,Houston,Indian,2.7
+52e33cec,Wang-Spence,San Diego,Mediterranean,3.7
+9cf015aa,Peterson Group,Houston,Mexican,4.1
+9359aba6,"Williams, Rivers and Jones",New York,American,3.7
+97c38702,Hart Ltd,Houston,Japanese,4.8
+13e00b10,Whitehead Ltd,Chicago,Mediterranean,2.9
+7bc2ac28,Collins Inc,Los Angeles,American,4.7
+bd41f1aa,"Holland, Novak and Jones",San Antonio,American,3.0
+ea3807e1,"Schultz, Bryant and White",New York,Indian,2.9
+cf41be69,"Gregory, Smith and Cooper",San Antonio,Mediterranean,4.7
+bff0c775,"Campbell, Tran and Young",San Diego,Chinese,4.8
+91d69db6,Hill-Riley,San Antonio,Italian,3.0
+5efd3ee2,Taylor-Schultz,Phoenix,Italian,4.3
+dc37cc01,"Love, Bell and Evans",San Diego,American,4.7
+ea4801f8,Gentry Ltd,New York,Chinese,3.8
+1029722a,Brown LLC,Los Angeles,Italian,4.5
+bb464418,Fisher PLC,Houston,Chinese,3.7
+c77146e6,Young and Sons,Chicago,Mediterranean,2.7
+f6ae3f93,Garcia Ltd,Los Angeles,Mexican,4.2
+4f2ed7bf,"Delgado, Jones and Huerta",Houston,Mediterranean,2.5
+a753fd41,Harris PLC,Los Angeles,Indian,3.6
+857d8f31,Bowen-Johnson,Houston,American,4.8
+9f8bd003,"Jones, Nguyen and Harris",San Diego,Mediterranean,4.5
+d1e6061b,Patrick PLC,Houston,Italian,3.6
+9c8d5113,"Mcclain, Wright and Rosales",Chicago,Italian,3.2
+bae724ac,Ramirez-Nelson,Chicago,Mediterranean,3.3
+3f531fe4,Ortega PLC,New York,Mexican,3.2
+77b07b22,"Johnson, West and Morris",San Antonio,Italian,2.6
+e94b2960,"Schwartz, Spencer and Curtis",San Antonio,Italian,3.3
+5b58b0aa,Cole PLC,Chicago,American,4.1
+4942cb1a,"Flores, Powell and Gonzalez",Phoenix,Indian,4.9
+24717e31,Newton Group,San Antonio,Japanese,4.8
+1316d4dc,"Schmidt, Collins and Peterson",San Antonio,Japanese,3.9
+11d28e03,Sanchez-Hogan,New York,Mediterranean,4.7
+5eb7e43c,Walker and Sons,Chicago,Italian,2.9
+435d1f1b,"Rodriguez, Burgess and Wood",San Diego,Indian,4.0
+59099a10,Walker-Robinson,New York,Mediterranean,3.6
+c5053e11,Martinez and Sons,San Antonio,Japanese,3.8
+2e4c62ac,"Williams, Mitchell and Rogers",Los Angeles,Mediterranean,4.7
+cbe65628,Hester and Sons,Los Angeles,American,4.2
+024a3e1b,Fleming-Smith,New York,Mediterranean,2.9
+d54abcd9,"Hodges, Brown and Mejia",Chicago,Italian,2.7
+76f660c4,"Santos, Conway and Bullock",Houston,Indian,2.6
+8b64586d,Richard PLC,Phoenix,Indian,4.8
+ec59571b,"Hodges, Knight and Ballard",Chicago,Chinese,4.1
+cc4c4d70,Wilkerson and Sons,Phoenix,Italian,4.9
+c81d211f,Torres-Gordon,Los Angeles,Mediterranean,2.6
+ad3125cf,"Herrera, Bishop and Murphy",San Diego,Indian,4.3
+34cb2fce,Jones Ltd,Los Angeles,Indian,4.4
+54d26d5a,Mora Inc,Houston,Mediterranean,3.9
+46f369cd,Larson-Dillon,San Diego,Indian,3.3
+d3140354,Thompson LLC,San Antonio,Mediterranean,3.3
+323a69a2,Haney-Rhodes,Houston,American,3.4
+847d8403,"Holmes, Combs and Stevens",Los Angeles,Japanese,3.2
+c8959ff6,"Suarez, Obrien and Taylor",Chicago,Mediterranean,2.8
+7e55e16a,Roy-Arnold,Los Angeles,Mediterranean,4.5
+544741ba,"Thompson, Klein and Short",Houston,Indian,3.4
+a2958a6e,Jones Inc,Chicago,Chinese,3.5
+6a2b243f,Castro Inc,Los Angeles,Japanese,3.3
+5552ca25,"Kent, Jones and Owen",Los Angeles,Mediterranean,4.5
+d87a4f6e,Orr-Baird,Phoenix,Japanese,3.2
+c0489f96,Warren Group,Houston,Indian,4.6
+ff18fc4e,Daniel LLC,San Diego,Indian,4.0
+b3a33267,"Walters, Moore and Flynn",New York,Chinese,3.1
+2f41b2f4,"Ellis, Lambert and Martinez",New York,American,3.3
+3e0e670a,"Johnson, Gonzalez and Rodriguez",San Diego,Mediterranean,4.0
+e43e510a,"Hatfield, Fields and Newman",New York,Mediterranean,4.5
+64fc63fd,"Cox, Williams and Brown",San Antonio,Mexican,4.5
+0d167118,Castillo LLC,New York,Mexican,3.8
+3aaf5fd6,Ramirez Inc,Houston,Mexican,4.6
+45dcb3b5,White Ltd,Chicago,Mexican,4.1
+c41e2f07,"Berg, Moss and Morse",San Diego,Indian,5.0
+7f487f04,Stewart-Rodriguez,Chicago,Japanese,4.2
+265b3af4,Norris-House,New York,American,3.2
+ce5e771e,James Inc,New York,Indian,4.7
+ee20a3cf,"Sandoval, Briggs and Alvarez",Phoenix,Indian,4.7
+ba9f1052,Moss-Lang,Chicago,Mexican,2.8
+0f1335e4,Dickson Group,Los Angeles,Mexican,4.8
+e96659b2,Hoffman-Jimenez,New York,Mexican,3.4
+50db9ffa,Bailey-Williams,Phoenix,Italian,2.8
+f7d716d4,"Moore, Lynch and Smith",San Antonio,American,3.2
+139200d5,Lindsey-Johnson,San Diego,Japanese,2.5
+8389c13f,Michael-Barton,New York,Italian,4.2
+2d1808bf,Maxwell-Leon,Los Angeles,Mediterranean,3.3
+c1cde0b7,"Brown, Ross and Lang",Phoenix,Mexican,4.4
+91cfcdde,Woods-Phillips,Los Angeles,Chinese,2.8
+a455a161,Townsend-Spencer,San Diego,Mediterranean,3.6
+b6c401ab,Thomas PLC,Houston,Chinese,2.7
+c5edfd11,Davis Inc,Los Angeles,Italian,2.7
+62ac017e,Reed Inc,Chicago,Chinese,3.2
+af721691,Sanchez Inc,Chicago,Chinese,3.5
+9b45142d,"Huang, Chapman and Jimenez",San Diego,Chinese,3.1
+ef10b8c6,Cummings Group,Houston,Indian,3.9
+7c0a5478,Valenzuela LLC,Houston,Indian,3.2
+ae2041c8,"Hernandez, Becker and Bailey",Los Angeles,Mediterranean,4.1
+4e30d68d,Roberts PLC,New York,Italian,4.6
+7fd822dc,Barron and Sons,Phoenix,Mexican,3.3
+816699bc,Thompson-Walter,Phoenix,American,4.7
+5e493fc4,Green Inc,San Diego,Italian,4.3
+f85c640d,Parker-Stewart,Phoenix,Mexican,4.3
+d367a1a0,Turner and Sons,Los Angeles,Mediterranean,3.5
+ea244f18,"Sharp, Mitchell and Castro",Phoenix,Mexican,3.1
+08288569,"Taylor, Walker and Farley",Houston,Mediterranean,3.0
+181ef377,"Gray, Holloway and Baker",Chicago,Italian,2.9
+a91ed682,Manning-Spencer,New York,Mexican,3.3
+bcbcbd86,"Hunter, Gardner and Petersen",San Diego,Mexican,2.9
+a88286cf,Hernandez-Brown,San Diego,Chinese,4.8
+d7972be0,"Smith, Wells and Sanchez",Phoenix,Mexican,4.4
+a5076b44,Lozano-Taylor,Los Angeles,American,3.9
+05ceb315,White-Cross,San Antonio,Chinese,3.7
+0561eb15,"Beasley, Thomas and Johnson",Los Angeles,American,2.6
+9d086f52,Black LLC,Los Angeles,Italian,2.9
+2f78aac5,"Gonzalez, Day and Mcmahon",Los Angeles,Italian,2.8
+61f84637,Hernandez Group,Chicago,Chinese,3.4
+1116628b,Harrington-Roberts,New York,American,2.5
+8321078e,"Nicholson, Alexander and Graham",Los Angeles,Mediterranean,4.2
+e4abfc62,"Duran, Hurst and Richards",Los Angeles,Japanese,4.0
+e6ed7a2b,Murphy Inc,Chicago,Japanese,4.0
+b632e6da,"Brady, Oneal and Hughes",San Diego,Mexican,3.2
+82853618,Campbell-Dalton,Phoenix,Chinese,4.5
+15dc218c,Harrison-Peterson,Phoenix,Italian,4.8
+99908310,"Lang, Ramsey and Harrison",San Diego,Japanese,4.9
+4871d51f,Moore Group,New York,Japanese,4.8
+91c94c88,"Adams, Peterson and Gaines",San Diego,Mexican,4.5
+56f580bb,Liu-Smith,Phoenix,American,2.5
+eb1dfb05,Holmes Group,San Diego,Mediterranean,3.1
+678c6288,Oconnor-Foster,Houston,Chinese,3.5
+3f2a6045,Arnold Group,Los Angeles,Mediterranean,4.7
+bc6e3945,Evans Inc,Chicago,Italian,4.2
+6b92f007,"King, Swanson and Clayton",Los Angeles,Indian,2.7
+69fe13e5,Brewer Inc,Los Angeles,Italian,2.8
+0bf2a147,Carson-Stone,Houston,Italian,3.7
+adecabb7,"Stafford, Jones and Petersen",Chicago,Mexican,4.6
+86994fe7,"Ballard, Trujillo and Joseph",Phoenix,Mediterranean,4.7
+286b95be,Walker LLC,Houston,Indian,2.6
+a23da8e6,"Garcia, Dean and Allen",San Antonio,Mexican,3.6
+9d92e817,"Stevens, Cortez and Martinez",San Diego,Indian,3.6
+44606cac,Rosario-Morris,Chicago,Mediterranean,4.8
+402fc419,Powell-Butler,New York,Indian,3.6
+595717b6,Martin Inc,Chicago,Indian,4.2
+2901ff72,"Jennings, Hess and Benson",Phoenix,Mexican,2.7
+f1459c99,Harrison PLC,Chicago,Japanese,4.8
+5584625c,"Reeves, Ortiz and Ortiz",Los Angeles,Chinese,4.8
+c6e3942b,Jenkins-Alvarez,New York,American,3.0
+21fc6348,Wiley and Sons,Phoenix,Mexican,3.4
+1ee8c065,Ford-Rodriguez,Phoenix,Mexican,3.7
+ec048311,Buchanan LLC,San Diego,American,3.3
+e45fbd7c,"Gregory, Jackson and Hunter",Phoenix,Indian,4.4
+4c2b3b26,Jackson Ltd,New York,Italian,4.3
+3ba1520f,"Ferguson, Simon and Fisher",New York,American,4.2
+3527c43b,Bailey-Soto,Houston,Indian,3.2
+470a06c0,Rogers-Brown,Houston,American,3.1
+a8bf7970,Berg Group,New York,Italian,4.3
+016c5099,"Green, Mora and Copeland",Phoenix,Chinese,2.8
+eb23602e,Woods-Potter,Houston,Mediterranean,2.8
+e836d611,Reynolds Group,Phoenix,Chinese,3.4
+6f385d93,"Campbell, Warren and Russell",New York,Mediterranean,4.4
+5c9b9c79,Wilson Group,Los Angeles,Italian,4.8
+53a6e7ce,"Jennings, Hampton and Smith",Chicago,Japanese,3.7
+41c3b552,Hensley-Chandler,Chicago,Mediterranean,4.6
+8573aa3e,Phillips Group,Chicago,Mediterranean,2.6
+af6b7109,"French, Gillespie and Martinez",San Diego,Italian,3.3
+ecb9f36f,Miller-Clark,Phoenix,Japanese,4.7
+48ffe27c,Martinez-Wood,Chicago,Japanese,3.0
+993315b7,"Simmons, Davis and Aguirre",Los Angeles,Chinese,3.6
+e0c4599b,"Cisneros, Wright and Abbott",New York,Mexican,2.7
+6266c2a1,Snyder PLC,Los Angeles,Chinese,3.4
+f2c3ee98,"Wilson, Wells and James",Houston,Mediterranean,4.6
+067c6f00,"Alvarez, Warner and Bryan",San Diego,Indian,3.0
+f4cd5e17,"Edwards, Lewis and Santana",Houston,Mexican,4.0
+360fe87e,"Powell, Jensen and Gilmore",Chicago,Indian,4.4
+a8115e79,Martinez Ltd,Phoenix,Mexican,4.8
+44ef930b,Bishop-Mcdowell,Los Angeles,Japanese,4.0
+2c9862da,Kane-Reese,New York,American,2.8
+f255bfa9,Sullivan and Sons,San Antonio,Indian,2.6
+29fb6c62,"Hughes, James and Tyler",Phoenix,Indian,3.8
+d1f5c705,"Walsh, Coleman and Kaufman",Phoenix,Chinese,4.4
+b554de3b,Perkins and Sons,Chicago,Chinese,4.9
+877e6f14,"Garcia, Ali and Mason",San Antonio,Japanese,3.9
+443217d2,Thompson-Davis,Phoenix,Japanese,4.6
+8b154099,Brennan-Perry,Phoenix,Chinese,3.7
+ec6bb11c,Palmer Group,New York,Italian,4.1
+ee788283,Baker and Sons,New York,American,4.3
+304e9f7f,Castillo Inc,Los Angeles,American,3.5
+4a55bc46,Phelps PLC,Chicago,American,3.1
+3e9ac5b9,Sanders-Arias,New York,Italian,3.2
+6dff6469,Turner-Morrison,Houston,Chinese,3.0
+4f3199f2,"Trevino, Mitchell and Braun",New York,American,4.0
+8b9ab853,"Ferguson, Monroe and Ellis",Chicago,American,3.0
+713d21f4,Thompson-Hensley,San Diego,Chinese,4.6
+0158e32a,Phillips Inc,San Antonio,Japanese,3.8
+b81a2367,Carter-Jones,Los Angeles,Chinese,4.8
+279d77e9,Marquez-Ray,San Diego,American,4.6
+627a23bc,"Holloway, Brown and Shelton",Los Angeles,Italian,2.7
+85fb72e7,Watson-Pearson,New York,American,3.8
+2bba6e02,Thomas-Flores,New York,Indian,3.8
+c08097eb,Harmon Inc,Houston,Japanese,3.4
+a792dcf2,Trevino Inc,San Diego,Mexican,3.0
+82d4f3c3,Holt-Lawrence,San Antonio,Indian,2.7
+547b58f6,Lawrence Inc,Chicago,Indian,2.9
+d1440a77,Diaz Inc,New York,Mediterranean,2.5
+a8cf95f2,Choi Group,Chicago,Japanese,3.4
+ac102933,Pierce-Wright,New York,Indian,3.8
+e76a47d9,Johnson-Scott,San Antonio,Mexican,3.4
+652eacf7,Gibson-Mcdonald,San Antonio,Mexican,3.7
+ab62480d,Madden-Armstrong,San Antonio,Chinese,2.6
+c543003e,"Hall, Hendrix and Daniels",Los Angeles,Chinese,2.6
+bf752dcf,Peterson-Watson,New York,Italian,4.0
+5263a2b5,"Allen, Miller and Beck",Phoenix,American,3.1
+1929faef,"Allen, Bradford and Sanders",Phoenix,Chinese,2.6
+c91aaf65,Owens PLC,Phoenix,American,3.6
+febac0e5,Smith PLC,San Antonio,Chinese,3.7
+5e8f1ff3,"Cooper, Norman and Moore",Los Angeles,Japanese,2.5
+0451fbfe,"Mcdonald, Cline and Thompson",Chicago,Italian,4.8
+64cea9dd,Johnson Group,New York,Mediterranean,2.8
+2656802e,Gonzalez LLC,Chicago,Japanese,2.8
+cbddff1c,Salas-Chapman,Los Angeles,Italian,3.0
+a2cd3e64,"Hernandez, Willis and Ashley",Los Angeles,American,3.8
+77b0e19c,Yang Inc,Phoenix,Mexican,3.9
+8cfb487e,Decker-Keller,New York,Mexican,3.9
+dfe0fc98,"Thomas, Wolfe and Stanley",Chicago,Chinese,4.8
+d4f020c4,Dickerson LLC,Houston,Japanese,2.7
+e45bc3e2,Dickson-Carr,Chicago,Chinese,3.3
+de026ef9,Washington Ltd,Phoenix,Japanese,3.0
+5cb330e7,"Davidson, Wells and Alvarez",San Antonio,Indian,4.0
+f520335b,Mathis-Ross,San Antonio,Indian,3.2
+c056e7be,Reyes-Johnson,Phoenix,Italian,3.4
+cf98d580,Johnson-Perry,Chicago,Italian,5.0
+02c303d4,"Guzman, Weber and Bautista",New York,Indian,3.2
+75f4e57f,Warren Ltd,San Diego,Mexican,3.2
+ed187f46,Lewis Group,San Diego,Mexican,4.6
+ddd19676,Hall-Dunn,San Diego,Indian,3.6
+586aa49a,Chapman and Sons,San Antonio,American,3.4
+dee0690a,"Wiggins, Long and Whitney",Phoenix,Japanese,4.2
+35508f2a,Anderson Ltd,Los Angeles,Italian,3.2
+e110ae9f,Lee Group,San Antonio,Japanese,4.8
+b73d2431,"Garcia, Ortiz and Vang",Houston,Mexican,4.2
+7d83270b,Bell Ltd,Houston,Mediterranean,2.9
+9e1e50df,Flores-Smith,Houston,Chinese,2.7
+bfb5462e,Horne Inc,Chicago,Chinese,3.8
+7c6a9d2f,Flores Inc,Phoenix,Mexican,5.0
+5eedca42,Peterson PLC,San Diego,Japanese,4.7
+e778b2de,Cruz PLC,Los Angeles,Italian,2.9
+5a79e0cb,Pierce-Rios,New York,Indian,2.9
+538d8f98,Chen-Colon,Houston,Japanese,2.6
+cbb7903d,"Payne, Hamilton and Banks",San Diego,Italian,3.4
+bac6a411,Arellano and Sons,Los Angeles,Indian,3.4
+e223f244,Weber-Keith,Phoenix,Mediterranean,4.6
+b3a24099,Green Group,Los Angeles,Indian,3.4
+218b2ab0,"Wilson, Valencia and Ward",San Diego,Mexican,4.0
+cd119395,Fitzgerald-White,New York,Chinese,4.4
+30d51a52,Wilson LLC,Phoenix,Japanese,4.4
+f877aa2f,Hernandez Ltd,Chicago,Mexican,3.1
+c22e1574,Munoz Ltd,San Diego,Mexican,3.6
+8bd9163e,Hernandez-Olson,Phoenix,Italian,3.5
+afb8906a,Martin-Reed,San Antonio,Chinese,4.5
+4fcb2206,Lopez PLC,Chicago,Mediterranean,3.8
+edfe4818,Jennings-Price,Chicago,Indian,4.5
+19fead5f,"Patton, Brady and Flores",Chicago,Mediterranean,4.2
+81056e04,Skinner Group,New York,Italian,4.4
+49434c75,"Wright, Peterson and Rich",Phoenix,Italian,2.7
+ffe6e5bf,George PLC,Los Angeles,Mediterranean,4.9
+63998e31,"White, Oneill and Liu",San Diego,Mexican,4.3
+bd40c39d,Jones LLC,Chicago,Chinese,4.8
+1df6bf8f,Smith and Sons,New York,Mexican,3.5
+9e3dd28f,"Chan, Thomas and Robles",Chicago,American,4.6
+5d202a4b,Dennis Inc,Los Angeles,Mexican,3.7
+b2ae3eff,"Eaton, Anderson and Hammond",Los Angeles,Indian,3.8
+78df15d8,Ramirez Inc,San Antonio,Mexican,3.5
+a34932f9,"Johnson, Fitzpatrick and Manning",Phoenix,American,4.2
+b178d28a,Flowers-Campbell,Houston,Chinese,4.0
+f1cbb8c5,Jacobson and Sons,San Antonio,Japanese,4.9
+3e11e64b,English-Brown,Chicago,Mediterranean,3.3
+95a98b0a,"Smith, Lawson and Jackson",Phoenix,Mediterranean,4.7
+83039e89,"Nichols, King and Brown",Los Angeles,Italian,3.8
+46c76291,Norman Group,San Antonio,Japanese,2.6
+e88ab66a,Rollins LLC,Houston,Indian,3.5
+0da7b0e3,"Jordan, Hunt and Harris",Houston,Japanese,2.7
+23b18e94,Reed-Cherry,Los Angeles,Mediterranean,4.3
+a74554a2,Foster-Young,San Antonio,Mexican,3.1
+bddd4bd1,Liu PLC,San Antonio,American,4.2
+73466e5b,"Myers, Moore and Sparks",Chicago,Chinese,2.6
+1ea0ce40,Collier-Russell,Chicago,Chinese,3.1
+db320537,Villegas PLC,Houston,Japanese,4.7
+ffec66ca,Horton and Sons,New York,American,3.3
+24dbbe47,Owens Ltd,Chicago,Japanese,3.2
+8a0f9fb8,"Thompson, Mendoza and Hernandez",New York,Japanese,4.1
+16e2fbda,"Martinez, Davis and Porter",San Diego,Indian,3.6
+91382d93,"Murphy, Gonzales and Rodriguez",Houston,Chinese,3.5
+ac7c1899,"Edwards, Young and Hendricks",Houston,Italian,3.1
+b2e132b8,"Torres, Carroll and Lawrence",San Antonio,American,4.0
+85cdde0e,"Murphy, Nicholson and Freeman",New York,Japanese,4.8
+f8c0ce92,Khan-Bullock,Phoenix,Indian,4.1
+076b929b,Marquez LLC,New York,Indian,3.7
+49d5eb26,"Pierce, Davis and Sanders",Los Angeles,Chinese,2.8
+76917935,Harris Ltd,San Antonio,Italian,3.9
+4751b805,Brown-Graves,Los Angeles,American,3.9
+0bb89f23,Lopez-Fisher,Phoenix,Chinese,3.6
+a439d540,Lawrence-Brown,Chicago,Mexican,4.2
+ddb3eaf2,Wallace-Wilson,New York,Mexican,3.0
+b31c4eb1,Alexander LLC,Los Angeles,Italian,2.6
+e3efa840,Davis-Barnes,Houston,Indian,4.4
+fa435a5d,Rios-Campbell,New York,Italian,4.7
+016364da,Cunningham Inc,San Diego,American,4.1
+80db4c5a,Salazar and Sons,New York,Chinese,4.0
+64f51bf1,Burns-Hardy,Chicago,American,3.7
+14096040,"Davis, Jones and Chen",Houston,Indian,3.0
+dd5e7107,Massey LLC,Chicago,Japanese,4.5
+1d36aff0,Stokes LLC,Phoenix,Mexican,3.5
+a6f1572a,Mendez-Jones,Phoenix,Chinese,4.5
+f5e590e4,Shields Inc,San Antonio,Chinese,2.7
+638814bf,Cruz PLC,Chicago,American,3.0
+45abb2e8,"Koch, Townsend and Washington",Phoenix,Mexican,4.9
+abab4122,Douglas Ltd,Chicago,Mexican,4.2
+e9b53b4c,Humphrey Group,San Diego,Mexican,4.4
+cf3f105f,"Werner, Joyce and Hawkins",New York,Chinese,3.8
+e64e03da,Green-Flores,Phoenix,Indian,4.4
+0b53c8aa,Walker-Sanders,San Antonio,American,4.7
+eb651c69,Patton Group,Phoenix,American,4.0
+4322a55a,Crawford PLC,Chicago,Japanese,4.0
+a255a39c,Adams and Sons,San Diego,Chinese,4.6
+67ce63ac,Ferguson-Pearson,Phoenix,Mexican,3.3
+9233a57b,Hall PLC,Chicago,Indian,3.5
+71ea69b4,"Shelton, Morris and Davidson",New York,Mexican,4.8
+55dfad31,"Davis, Hernandez and Martinez",Phoenix,Indian,3.6
+431c77e5,"Mckenzie, Mitchell and Gallagher",New York,Italian,2.7
+5b426b04,"Hamilton, Miller and Freeman",San Antonio,American,4.8
+c9c843e2,Evans Inc,San Antonio,Chinese,2.8
+a62c3dd1,Rodriguez-Jones,Los Angeles,Mediterranean,3.4
+7118d02c,"Rodriguez, Chapman and Carlson",Los Angeles,Indian,2.9
+744da8e3,Richard-Lopez,Phoenix,Italian,3.9
+5b84f31a,"Harris, Scott and Martinez",San Diego,Indian,3.9
+e9e657a0,Joseph-Carter,San Diego,Indian,3.7
+de617aa3,"Sullivan, Benitez and Page",Los Angeles,Indian,4.9
+25d3d037,"Harris, Taylor and Swanson",San Diego,Chinese,2.6
+d408ccda,"Orozco, Aguilar and Osborn",Phoenix,Japanese,4.2
+ae2e1cd2,"Oneill, Bates and Black",Chicago,Japanese,3.6
+6ab20818,Horn-Scott,San Antonio,American,4.8
+8cc98803,"Smith, Evans and Schultz",Phoenix,Mexican,3.7
+b88b1179,Beck and Sons,San Diego,Chinese,4.1
+2c4a6df6,Carter Ltd,Phoenix,Japanese,2.7
+444c4bdd,Hernandez PLC,New York,Chinese,3.7
+2dc97934,Bennett Inc,San Diego,American,2.7
+9bf3a95e,"Delgado, Thompson and Jones",Houston,Mexican,3.5
+7f97e40b,Lopez-Brown,New York,Indian,3.1
+2bf8d539,Ortega PLC,Los Angeles,Chinese,4.4
+752411ff,King-Guerrero,San Antonio,American,4.4
+204653f5,Monroe Group,San Diego,American,3.8
+01443e6e,Collins-Rivera,New York,Mediterranean,2.8
+4edb119d,Lawrence-Carrillo,San Antonio,Italian,4.2
+8e9bf993,"Gonzalez, Hopkins and Lin",Phoenix,American,4.9
+2449fa34,Lozano-Martinez,Chicago,Indian,4.1
+f6c185e4,"Rhodes, Smith and Wagner",Chicago,Italian,4.5
+9a1b0884,Scott Ltd,Los Angeles,Indian,2.6
+ccc47763,"Lawrence, Glover and Elliott",Los Angeles,Japanese,3.7
+db0229fe,Smith Group,Chicago,Indian,2.7
+9a8b6905,"Snyder, Gonzalez and Hudson",San Antonio,Chinese,3.7
+be66f314,Duarte and Sons,Chicago,Chinese,4.1
+0699adce,"Morrison, Stephenson and Watkins",Los Angeles,Japanese,3.8
+a6808694,Suarez and Sons,Phoenix,American,2.5
+a460e7aa,Gould-Mckinney,New York,Japanese,3.1
+8017de8c,Combs-Love,New York,Italian,2.5
+bdc3f4eb,Stevens and Sons,San Antonio,Indian,3.4
+7b15f338,"Brooks, Sparks and Parker",Houston,Italian,3.7
+be0f5fef,"Suarez, Patel and Mcclure",San Antonio,Mediterranean,4.3
+efa7bf09,Dixon-Mcintyre,Houston,Chinese,4.8
+61922c7b,"Greene, Rhodes and Taylor",San Antonio,Mediterranean,3.9
+3da29383,Conway-Bean,Phoenix,Japanese,3.8
+9a590cf2,"Powell, Jefferson and Brown",New York,Indian,4.3
+a3938799,Harmon-Griffin,Chicago,Italian,2.9
+5e9c9123,"Johnson, Meza and Gardner",Phoenix,Indian,4.2
+fa0648b2,Newton-Lowe,New York,Mexican,2.9
+ad6a876f,Jones PLC,Chicago,American,3.6
+14bfd955,Allen Ltd,New York,Indian,3.1
+aee0c8e9,Nguyen-Hall,Chicago,Chinese,3.6
+937eb37c,"Santos, Torres and Gaines",San Diego,Chinese,3.1
+4d016c92,"Brandt, Brown and Harris",New York,Italian,4.1
+40bac628,Taylor-Lindsey,Phoenix,Mediterranean,4.8
+f9029b00,Bell-Moore,San Antonio,Mediterranean,2.9
+219ac263,Smith and Sons,Houston,Mexican,3.7
+2e613607,Henson-Hudson,San Antonio,Italian,4.2
+92ebfda2,"Welch, Short and Reed",New York,Chinese,4.4
+b7c626c4,"Sanford, Clayton and Miller",Los Angeles,Indian,4.5
+654246dd,"Contreras, Summers and Franco",New York,Indian,4.1
+8d668957,Knight-Waters,New York,Italian,3.8
+95d59727,Lee Ltd,Phoenix,Chinese,4.8
+245304ef,"Brown, Miller and Saunders",Houston,Indian,3.3
+11ba7aeb,Rodriguez-Ferrell,Phoenix,Italian,3.3
+ece0e4a3,Jacobson Group,Chicago,Chinese,3.7
+0dcf3ab5,"Horton, Evans and Oneill",San Diego,Mediterranean,3.9
+7bb91b87,Daniels Group,New York,Chinese,3.7
+1f0badcf,Holmes Inc,San Diego,American,3.3
+9fd4016d,Cox LLC,San Diego,Italian,3.6
+090374ee,"Martinez, Flores and Powers",Los Angeles,Mediterranean,3.8
+8c44d25b,Walsh and Sons,Houston,Indian,2.6
+f4b1d4f8,"Lee, Sparks and Petersen",Houston,Indian,4.3
+f6e79524,Davis-Fernandez,Chicago,Italian,4.5
+1226d8f3,Roth-Cox,San Antonio,Japanese,3.8
+0bec52b5,"Hamilton, Garrett and Hamilton",Los Angeles,American,4.3
+780450e4,Dyer-Berg,San Diego,Chinese,4.1
+1d7c73ea,"Cooper, Davis and Adams",Los Angeles,Japanese,4.7
+6e88a842,Quinn-Vaughn,Houston,Chinese,2.5
+06e78545,Bentley-Lawrence,Chicago,Mediterranean,4.4
+3456bab2,"Turner, Rollins and Lopez",San Antonio,Japanese,2.9
+9a138e9f,Prince-Moore,Chicago,Mediterranean,4.0
+dfc94088,Wallace-Perkins,Chicago,Italian,4.4
+ac866d71,Jackson-Elliott,Phoenix,Mexican,2.7
+95956632,Smith Group,San Diego,Italian,4.5
+ffe6625e,"Murphy, Martinez and Lopez",San Diego,Japanese,2.6
+f1808e9c,Cooper-Vaughn,Chicago,Mexican,3.9
+7c83c8bc,Flores Ltd,Chicago,Indian,3.9
+02a05524,Mcgee-Phillips,Chicago,American,2.9
+c9653447,Chambers-Morrison,New York,Mexican,2.8
+8a244ec1,Marshall-Hale,San Antonio,Italian,2.7
+5b209af8,Conner LLC,San Diego,Chinese,4.3
+272397a2,Parker-Rodriguez,Phoenix,Indian,4.5
+0ecbd5fc,"Olson, Ramos and Bryan",New York,Mediterranean,4.2
+be2ceceb,Diaz and Sons,New York,Italian,3.7
+0ee7cec2,"Johnson, Hampton and Smith",Chicago,Italian,4.3
+4fd2f822,Romero and Sons,New York,Mediterranean,3.7
+4134e379,Reed-Lopez,Chicago,Indian,4.3
+acdc285c,Davies-Morris,Los Angeles,Indian,2.8
+467ada62,White and Sons,San Diego,Mexican,4.3
+e49cdf9e,Potter-Jones,New York,Italian,3.4
+53a05579,Patton-Williams,Phoenix,Mediterranean,3.3
+da429b38,Gray-Davidson,San Antonio,Japanese,4.0
+6d888b98,Duke LLC,Chicago,Chinese,3.3
+95b0b4d2,Kim Group,Phoenix,American,2.7
+8389b134,Black Group,San Diego,Mediterranean,3.9
+a6a596fa,Hudson LLC,San Antonio,Italian,3.5
+15d1f208,Decker-Booth,New York,American,3.9
+571773f4,Stevens PLC,Los Angeles,Indian,4.8
+c7388501,Henderson-Wang,Chicago,Indian,4.8
+9af62cad,"Dunn, Brooks and Zhang",Phoenix,Japanese,5.0
+1d90e2b1,"Bush, Phillips and Turner",Phoenix,Indian,4.8
+068eaf7d,Sims Ltd,New York,Chinese,2.6
+21bd9889,Luna Inc,Houston,Mexican,2.6
+999d82a7,Johnson Inc,Phoenix,Italian,4.8
+411807df,Warren-Garza,New York,American,2.9
+72421002,Hill LLC,New York,Japanese,2.7
+e0511aaa,West Group,Phoenix,Mediterranean,3.0
+e61277fe,"Delgado, Williams and Patel",San Diego,American,3.8
+6e0c9bbf,Page Group,Houston,Mediterranean,3.2
+e9a6c902,Morrison Ltd,Phoenix,Indian,2.8
+02a22621,Knight Ltd,New York,Japanese,4.7
+3721920e,"Dennis, Johnson and Hubbard",Phoenix,Italian,3.9
+986f0ecb,"Campbell, Cameron and Floyd",Los Angeles,Italian,2.7
+1531e878,Johnson Ltd,Houston,Mexican,4.4
+0d364835,"Fowler, Mccormick and Munoz",San Diego,Japanese,4.2
+ae182469,Price-Stewart,Chicago,Mexican,3.0
+2534ef63,"Davidson, Parker and Manning",Los Angeles,Japanese,2.7
+b692c3a7,"Carroll, Barry and Morgan",New York,Mexican,4.8
+94ff5de5,Brown PLC,Houston,Italian,4.3
+2cd20062,Porter-Weber,New York,American,4.0
+65bd8c8a,"Scott, Smith and Gardner",Los Angeles,Italian,4.2
+9b9ab466,"Branch, Jennings and Martinez",Chicago,Chinese,4.4
+5780675d,Bailey-Baker,Los Angeles,Indian,2.7
+a3362c78,Irwin PLC,San Diego,Mediterranean,3.2
+41e248e3,Page Ltd,San Antonio,Indian,3.6
+b66a7902,"Hawkins, Phillips and Lewis",Houston,Indian,3.5
+8168d251,"Silva, Ayala and Moore",San Diego,Italian,3.2
+aa72d028,Chen-Martinez,San Antonio,Mexican,4.7
+4d749661,Scott and Sons,Houston,Italian,3.6
+5456f1ba,Neal-Cox,Phoenix,Mediterranean,2.5
+2063d6fb,"Rice, Mitchell and Pollard",Phoenix,American,4.2
+c86a3ade,"White, Aguilar and Rodriguez",San Antonio,Japanese,3.7
+bffeb432,Mckay-Smith,Houston,Indian,2.7
+1c0bd57e,Cox-Glenn,San Antonio,Chinese,4.8
+5e760cb7,"Castaneda, Hunter and Mills",Los Angeles,Mexican,2.7
+7c1d5d5b,Flynn-Castro,Chicago,Mediterranean,3.5
+c6d6915b,Rice Group,Chicago,American,3.9
+ee917e0d,King-Sanders,San Diego,Mediterranean,2.6
+ef5426fe,"Reed, Chambers and Sanchez",Chicago,Japanese,2.8
+0649d866,Ross-Vance,Los Angeles,Indian,5.0
+60c0d811,"Mcmahon, Scott and Jackson",Houston,Italian,3.1
+ac78f8ec,Schwartz Group,San Diego,American,3.6
+bcdba65e,"Lucas, Munoz and Wood",Houston,Japanese,2.6
+2557f92b,Lopez-Holt,San Antonio,American,2.8
+7c160e2a,Ryan-Reyes,New York,Indian,4.7
+a98a8028,Lyons and Sons,Phoenix,American,2.8
+414da4b4,Lane and Sons,San Diego,Japanese,4.6
+a6d92806,"Larson, Costa and Rogers",New York,Mediterranean,3.2
+fffbffc7,Jones-Krueger,San Diego,Chinese,2.6
+46d8da4d,Martin PLC,Houston,Japanese,4.1
+3ec62fef,Casey Inc,San Antonio,Japanese,4.4
+2aa9e7ff,"Peterson, Fletcher and Zimmerman",New York,Italian,3.7
+2bc1d088,Miller PLC,Phoenix,American,3.8
+84ef169b,"Potts, Washington and Thomas",Houston,Indian,3.6
+0a7fea00,Boone-Allen,San Antonio,Japanese,4.2
+3da18568,Gonzalez Inc,San Antonio,Indian,4.4
+67c4b84a,Harris-Martinez,San Diego,Indian,4.8
+f4b0b35e,"Norton, Welch and Welch",New York,Italian,3.2
+74106e75,Pearson-Ford,Phoenix,American,3.5
+d8959e82,Adams Ltd,Chicago,Indian,3.7
+94299d98,"Lewis, Armstrong and Stevens",New York,American,3.4
+ae15b0f3,Crawford and Sons,San Antonio,Mediterranean,3.6
+12ff106c,Acevedo Ltd,Chicago,American,4.0
+84d5838f,"Diaz, Martin and Phillips",Houston,Italian,3.9
+e5473abe,Flores LLC,Houston,American,3.9
+6ae2303d,Fischer PLC,Phoenix,Italian,4.1
+c243a782,Rodriguez and Sons,Phoenix,Mediterranean,2.6
+2cae656b,Crawford Ltd,San Diego,Indian,3.4
+49468190,Garza Inc,Chicago,Mediterranean,4.6
+fd2b7be0,Moss-Blackwell,San Antonio,Mexican,2.9
+80b546a8,Aguilar-Smith,Phoenix,Japanese,3.4
+449e8963,Hubbard-Bright,Phoenix,Italian,4.1
+4ffcce09,Martinez LLC,Chicago,Chinese,3.3
+75244b64,Zamora-Taylor,Los Angeles,Indian,3.9
+3d4cadf7,Mack-Day,Phoenix,Japanese,3.6
+8b7dfd6f,Williams-Rodriguez,San Antonio,Japanese,3.6
+52df40da,Humphrey Inc,San Diego,Indian,3.3
+bcfd6e7c,"Andrade, Gray and Moore",Los Angeles,Mexican,3.2
+f1ee55ba,Ramirez Group,Los Angeles,Italian,2.7
+c232f98e,Chaney-Phillips,Chicago,Mediterranean,3.0
+ca862004,James Ltd,New York,Mexican,2.6
+ebc9ef48,Peters and Sons,Phoenix,Mediterranean,4.0
+220bf6c0,Brown and Sons,Chicago,American,4.6
+eedffb63,"Houston, Martinez and Lam",San Antonio,Indian,4.8
+5712a3af,Chapman Group,San Antonio,Italian,3.8
+77f316ca,Francis and Sons,San Diego,American,2.9
+de18049e,Wilkinson Group,San Antonio,Italian,3.2
+bd1fad1c,Davis PLC,Houston,Mediterranean,4.3
+08940d9e,Smith-Moore,Chicago,Mediterranean,2.8
+5c6d807e,"Robinson, Simmons and Phelps",Los Angeles,Mexican,3.0
+53b1b3e9,"Miller, Shields and James",San Antonio,Japanese,4.1
+a3348865,Lawson Inc,San Antonio,Mexican,4.9
+18d29950,Fitzpatrick Ltd,New York,Chinese,4.6
+b942efe3,Morgan-Lewis,San Diego,Mexican,3.5
+033850f4,Johnson LLC,Phoenix,Indian,4.7
+1dd79d4a,Soto-Craig,San Diego,Mediterranean,4.1
+87513d00,"Castillo, Wallace and Gill",San Diego,Indian,2.8
+bd274c0f,Macias Group,Los Angeles,American,5.0
+43f91877,Ferrell and Sons,San Diego,Japanese,4.0
+0fdcac90,"Robertson, Smith and Gamble",San Diego,American,3.9
+c3cebd7d,Evans LLC,Los Angeles,Mexican,3.9
+c096b5c3,Myers-Estes,Chicago,Mexican,4.5
+c4868fc0,Cordova-Wright,New York,Mexican,3.9
+f15b0952,"Davis, Hale and Murillo",Chicago,American,4.8
+f73458f1,"Ochoa, Moran and Mendoza",Chicago,American,3.8
+002e8a39,Robinson-Martin,Phoenix,Italian,3.4
+cfc24590,"Davis, Elliott and Miller",San Antonio,American,2.7
+e6934097,Williams Inc,Los Angeles,Mediterranean,2.6
+c83ae5c0,Lawson Ltd,Chicago,Mediterranean,4.1
+e120c692,White Inc,Houston,Italian,4.8
+0c4759ac,Williams LLC,New York,Chinese,4.6
+1d38551a,Cantu Group,Houston,Italian,2.9
+5901821f,Griffith-Knox,Los Angeles,American,4.6
+fc55bbeb,Chavez Ltd,Chicago,Chinese,4.1
+d6ffeafb,Alvarez-Brady,Houston,Italian,3.8
+5e02aae8,Malone PLC,Chicago,Indian,4.0
+d8a2a04a,"Kim, Russo and Roberts",Los Angeles,Italian,3.8
+c6b63558,Medina-Davis,Houston,Mediterranean,4.6
+490e9977,"Holmes, Patterson and Hurley",Houston,Italian,3.8
+77de7ba9,Sherman LLC,Phoenix,Japanese,4.6
+f556bc51,Farley LLC,Phoenix,Italian,4.5
+935b42af,Hill Group,Chicago,Japanese,3.2
+b306840d,"Beard, Jones and Campbell",San Diego,Mexican,4.2
+cd1d664d,Oneal-Payne,New York,Mexican,3.2
+e6ddaf0b,Berg Ltd,Chicago,Chinese,4.2
+5ec383f0,Baker-Bryant,Houston,Japanese,3.9
+c38872bb,Brown-Anderson,Houston,Indian,3.4
+d3d52c6e,Stafford-Hart,Chicago,Mexican,3.1
+2308e1b0,"Christensen, Davis and Rivas",New York,Italian,3.7
+e22fa926,Johnson-Simmons,San Diego,Mexican,3.8
+3114a237,Thomas-Johnson,San Antonio,Italian,3.8
+2ca2aeaa,"Adams, Jones and Howard",Chicago,Mexican,3.0
+f54bc6f9,"Lynch, Ward and Johnson",Phoenix,Japanese,3.7
+f14aa5d0,Richards PLC,San Antonio,Japanese,4.9
+39b70be1,Lopez Inc,San Diego,Mediterranean,3.9
+6b5b1100,Morris Inc,San Diego,Italian,4.6
+2d6afa89,Davis Ltd,Chicago,Chinese,4.4
+b4d37f5f,Hanson-Romero,Chicago,Indian,4.5
+583b6696,Raymond-Morales,Phoenix,Italian,4.1
+c84f5ed8,Lewis PLC,Los Angeles,Japanese,4.6
+e82f346f,Snyder and Sons,Houston,Chinese,2.6
+45915b16,Hall Group,San Antonio,Italian,3.6
+48ebfd3a,"Hess, Turner and Larson",San Antonio,Mediterranean,3.4
+8d9650ad,"Hernandez, Rice and Collins",New York,Italian,3.6
+b6500c9d,Dennis PLC,Houston,Japanese,2.6
+c3ee9a17,Morris-Kaiser,San Diego,Chinese,2.9
+767349cb,Taylor-Cook,Houston,Italian,4.5
+e7c6f5df,James and Sons,Phoenix,Italian,4.5
+d503989c,Olsen-Mitchell,Houston,American,4.2
+3166e789,Hernandez and Sons,Chicago,Mexican,4.0
+52096afa,Davis-Anthony,San Antonio,Chinese,3.3
+146aaa5c,Young Inc,Chicago,American,2.7
+f02fdd14,Patterson-Burton,Houston,Mexican,3.6
+e19cd1be,"Lopez, Jimenez and Compton",Chicago,Italian,2.8
+4e5a9999,Buck Group,Los Angeles,Japanese,3.2
+0e9cb8ed,"Morris, Coleman and Frey",Phoenix,American,4.7
+aacb4a6a,Gomez-Pierce,Chicago,Mediterranean,4.3
+bd1120f0,"Marquez, Figueroa and Young",San Antonio,American,4.5
+af9d212b,Jones-Anderson,New York,Mexican,4.3
+38dcc9a6,"Richards, Martinez and Hoover",Chicago,Japanese,3.0
+e583107f,Chapman-Schmitt,Houston,Mexican,5.0
+04b03c80,"Herrera, Barrett and Henderson",Los Angeles,Italian,4.4
+ba4c86c1,"Mitchell, Lee and Wolfe",Phoenix,Italian,3.5
+6dc4fe24,"Hogan, Bailey and Alexander",San Diego,Chinese,3.9
+64359793,"Anderson, Horton and Mcbride",Chicago,Japanese,2.8
+558a5e76,"Cole, Johnson and Nelson",San Antonio,Chinese,3.3
+62fd5137,Acosta-Patton,Los Angeles,American,2.9
+fd342e05,"Ramirez, Huff and Johnson",San Antonio,American,2.6
+9b086568,Brown-Clements,New York,Indian,2.7

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Food Delivery System</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <h1>Food Delivery System</h1>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="/orders_summary">Order Summary</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="main-content">
+        <h2>Welcome to the Food Delivery System</h2>
+        <div class="order-summary">
+            <h3>Order Summary</h3>
+            <div class="order-details">
+                <p><strong>Completed Orders:</strong> {{ summary['Completed'] }}</p>
+                <p><strong>Pending Orders:</strong> {{ summary['Pending'] }}</p>
+                <p><strong>Cancelled Orders:</strong> {{ summary['Cancelled'] }}</p>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Food Delivery System | All Rights Reserved</p>
+    </footer>
+</body>
+</html>
